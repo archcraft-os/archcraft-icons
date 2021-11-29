@@ -23,9 +23,19 @@ Inherits=Papirus-Apps,Archcraft-Dark,Papirus
 KDE-Extensions=.svg
 
 ## Directories
-Directories=actions/32,actions/48,apps/32,apps/48,apps/64,categories/32,devices/32,devices/48,devices/64,emblems/8,emblems/16,emblems/22,emblems/32,mimetypes/32,mimetypes/48,mimetypes/64,places/32,places/48,places/64,places/96,status/32,status/48,status/64,status/128
+Directories=actions/16,actions/24,actions/32,actions/48,apps/16,apps/24,apps/32,apps/48,apps/64,categories/16,categories/24,categories/32,devices/16,devices/24,devices/32,devices/48,devices/64,emblems/8,emblems/16,emblems/22,emblems/32,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/48,mimetypes/64,places/16,places/24,places/32,places/48,places/64,places/96,status/16,status/24,status/32,status/48,status/64,status/128
 
 ##############	Actions
+
+[actions/16]
+Size=16
+Context=Actions
+Type=Fixed
+
+[actions/24]
+Size=24
+Context=Actions
+Type=Fixed
 
 [actions/32]
 Size=32
@@ -38,6 +48,16 @@ Context=Actions
 Type=Fixed
 
 ##############	Apps
+
+[apps/16]
+Size=16
+Context=Applications
+Type=Fixed
+
+[apps/24]
+Size=24
+Context=Applications
+Type=Fixed
 
 [apps/32]
 Size=32
@@ -56,12 +76,32 @@ Type=Fixed
 
 ##############	Categories
 
+[categories/16]
+Size=16
+Context=Categories
+Type=Fixed
+
+[categories/24]
+Size=24
+Context=Categories
+Type=Fixed
+
 [categories/32]
 Size=32
 Context=Categories
 Type=Fixed
 
 ##############	Devices
+
+[devices/16]
+Size=16
+Context=Devices
+Type=Fixed
+
+[devices/24]
+Size=24
+Context=Devices
+Type=Fixed
 
 [devices/32]
 Size=32
@@ -102,6 +142,16 @@ Type=Fixed
 
 ##############	MimeTypes
 
+[mimetypes/16]
+Size=16
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/24]
+Size=24
+Context=MimeTypes
+Type=Fixed
+
 [mimetypes/32]
 Size=32
 Context=MimeTypes
@@ -118,6 +168,16 @@ Context=MimeTypes
 Type=Fixed
 
 ##############	Places
+
+[places/16]
+Size=16
+Context=Places
+Type=Fixed
+
+[places/24]
+Size=24
+Context=Places
+Type=Fixed
 
 [places/32]
 Size=32
@@ -140,6 +200,16 @@ Context=Places
 Type=Fixed
 
 ##############	Status
+
+[status/16]
+Size=16
+Context=Status
+Type=Fixed
+
+[status/24]
+Size=24
+Context=Status
+Type=Fixed
 
 [status/32]
 Size=32
