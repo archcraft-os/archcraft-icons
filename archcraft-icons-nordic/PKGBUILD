@@ -2,7 +2,7 @@
 
 pkgname=archcraft-icons-nordic
 pkgver=1.0
-pkgrel=7
+pkgrel=8
 pkgdesc="Nordic Icon theme for Archcraft"
 arch=('any')
 url="https://github.com/archcraft-os/archcraft-icons"

@@ -1,43 +1,88 @@
 [Icon Theme]
 Name=Nordic-Folders
-Comment=Folders for Nordic darker gtk theme.
-
+Comment=Folders for Nordic darker theme.
 Inherits=Numix-Apps,Archcraft-Dark
 
-# Directory list
-Directories=Places/16,Places/32,Places/48,Places/64,Places/96
 
-[Places/16]
-Context=Places
-Size=16
+# Directory list
+Directories=Places/16,Places/22,Places/32,Places/48,apps/scalable
+
+
+[Apps]
+Context=Applications
+Size=96
+MinSize=16
+MaxSize=192
+Type=Scalable
+
+[apps/scalable]
+Size=48
+Context=Applications
 MinSize=16
 MaxSize=512
 Type=Scalable
 
+[Mimes]
+Context=MimeTypes
+Size=96
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[Places/16]
+Context=Places
+Size=16
+Type=Fixed
+
+[Places/22]
+Context=Places
+Size=22
+Type=Fixed
+
 [Places/32]
 Context=Places
 Size=32
+Type=Fixed
+
+# 22x22
+[22/actions]
+Context=Actions
+Size=22
+Type=Fixed
+
+
+[Places/48]
+Size=48
+Context=Places
 MinSize=32
 MaxSize=512
 Type=Scalable
 
-[Places/48]
-Context=Places
-Size=48
-MinSize=48
-MaxSize=512
-Type=Scalable
-
-[Places/64]
-Context=Places
-Size=64
-MinSize=64
-MaxSize=512
-Type=Scalable
-
-[Places/96]
-Context=Places
+[Status]
+Context=Status
 Size=96
-MinSize=96
+MinSize=16
 MaxSize=512
 Type=Scalable
+
+[Categories]
+Context=Categories
+Size=96
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+
+[Devices]
+Size=96
+Context=Devices
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[Emblems]
+Size=96
+Context=Emblems
+Type=Scalable
+MinSize=16
+MaxSize=512

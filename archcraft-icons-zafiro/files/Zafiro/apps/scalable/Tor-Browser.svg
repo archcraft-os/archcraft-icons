@@ -15,7 +15,7 @@
    height="64"
    id="svg26"
    sodipodi:docname="Tor-Browser.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -24,7 +24,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1040"
+     inkscape:window-width="1851"
+     inkscape:window-height="1048"
      id="namedview28"
      showgrid="false"
      inkscape:zoom="3.6875"
      inkscape:cx="32"
      inkscape:cy="32"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="69"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg26" />
   <defs
@@ -58,53 +57,54 @@
        id="b3tQYQrK23" />
   </defs>
   <g
-     id="g12"
-     style="fill:#605163;fill-opacity:1"
-     transform="matrix(1.1585886,0,0,1.1585886,-42.087818,-54.183368)">
-    <use
-       xlink:href="#bLfL6XFSH"
-       id="use6"
-       style="opacity:1;fill:#605163;fill-opacity:1"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%" />
+     id="g24"
+     transform="matrix(1.2008788,0,0,1.2008788,-60.904457,-62.485374)">
     <g
-       id="g10"
-       style="fill:#605163;fill-opacity:1">
-      <use
-         xlink:href="#bLfL6XFSH"
-         id="use8"
-         style="opacity:1;fill:#605163;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:0"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
-    </g>
-  </g>
-  <g
-     id="g20"
-     style="fill:#ffffff;fill-opacity:0.58943087"
-     transform="matrix(1.1585886,0,0,1.1585886,-42.087818,-54.183368)">
-    <use
-       xlink:href="#b3tQYQrK23"
-       id="use14"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.58943087"
-       x="0"
-       y="0"
-       width="100%"
-       height="100%" />
-    <g
-       id="g18"
-       style="fill:#ffffff;fill-opacity:0.58943087">
-      <use
-         xlink:href="#b3tQYQrK23"
-         id="use16"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.58943087;stroke:#000000;stroke-width:1;stroke-opacity:0"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%" />
+       id="g22">
+      <g
+         id="g12">
+        <use
+           xlink:href="#bLfL6XFSH"
+           id="use6"
+           style="opacity:1;fill:#e4c6f0;fill-opacity:1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <g
+           id="g10">
+          <use
+             xlink:href="#bLfL6XFSH"
+             id="use8"
+             style="opacity:1;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-opacity:0"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="g20">
+        <use
+           xlink:href="#b3tQYQrK23"
+           id="use14"
+           style="opacity:1;fill:#9d6db4;fill-opacity:1"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <g
+           id="g18">
+          <use
+             xlink:href="#b3tQYQrK23"
+             id="use16"
+             style="opacity:1;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-opacity:0"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>
