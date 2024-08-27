@@ -1,0 +1,21 @@
+# Maintainer: Aditya Shakya <adi1090x@gmail.com>
+
+pkgname=archcraft-icons-colloid
+pkgver=1.0
+pkgrel=0
+pkgdesc="Colloid Icon theme for Archcraft"
+arch=('any')
+url="https://github.com/archcraft-os/archcraft-icons"
+license=('GPL3')
+groups=(archcraft-icons)
+options=(!strip !emptydirs)
+
+prepare() {
+	cp -af ../files/. "$srcdir"
+}
+
+package() {
+	local _iconsdir="$pkgdir"/usr/share/icons
+	mkdir -p "$_iconsdir"
+	cp -r "$srcdir"/* "$_iconsdir"
+}
