@@ -3,7 +3,7 @@
       .ColorScheme-Text {
         color:#232629;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-Accent {
         color:#3daee9;
       }
       </style><linearGradient gradientUnits="userSpaceOnUse" y2="535.79071" x2="433.71429" y1="543.79071" x1="425.71429" id="linearGradient4154" xlink:href="#linearGradient4172-7" inkscape:collect="always" gradientTransform="matrix(1.5,0,0,1.5,-79.84891,-215.56677)"/><linearGradient inkscape:collect="always" id="linearGradient4172-7"><stop style="stop-color:#1d99f3;stop-opacity:1" offset="0" id="stop4174-2"/><stop style="stop-color:#cae7fc;stop-opacity:1" offset="1" id="stop4176-0"/></linearGradient></defs>

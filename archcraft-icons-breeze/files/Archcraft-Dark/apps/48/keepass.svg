@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" id="svg2" version="1.1">
  <defs id="defs4">
   <linearGradient id="linearGradient4166">
@@ -9,9 +9,7 @@
    <stop style="stop-color:#bf4231;stop-opacity:1" offset="0" id="stop4155"/>
    <stop style="stop-color:#e05e4c;stop-opacity:1" offset="1" id="stop4157"/>
   </linearGradient>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#4d4d4d; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style>
   <linearGradient xlink:href="#c-4" id="linearGradient4269" x1="13.559" y1="3.186" x2="33.627" y2="43.797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,-1,48.00038,48)"/>
   <linearGradient gradientUnits="userSpaceOnUse" x2="4" x1="44" id="c-4">
    <stop id="stop4683" stop-color="#42a603" style="stop-color:#459811;stop-opacity:1"/>

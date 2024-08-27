@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2817" height="48" width="48" version="1">
  <defs id="defs429">
   <linearGradient id="linearGradient4626">
@@ -34,9 +34,7 @@
   <linearGradient xlink:href="#linearGradient4582" id="linearGradient4588" x1="19.831" y1="26.561" x2="9.69" y2="37.881" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9090909,0,0,1.0526316,2.1818183,-1.2631584)"/>
   <linearGradient xlink:href="#linearGradient4590" id="linearGradient4596" x1="33.241" y1="30.191" x2="40.393" y2="37.416" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9090909,0,0,1.0526316,2.1818183,-1.2631584)"/>
   <linearGradient xlink:href="#linearGradient4598" id="linearGradient4604" x1="27.197" y1="33.475" x2="21.366" y2="14.901" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1.2,0,-4.8)"/>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#4d4d4d; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style>
   <linearGradient xlink:href="#linearGradient4656" id="linearGradient4662" x1="19.025" y1="15.232" x2="29.946" y2="31.765" gradientUnits="userSpaceOnUse" gradientTransform="translate(1,0)"/>
   <linearGradient xlink:href="#linearGradient4626" id="linearGradient4632" x1="23.693" y1="21.277" x2="34.937" y2="32.522" gradientUnits="userSpaceOnUse"/>
  </defs>

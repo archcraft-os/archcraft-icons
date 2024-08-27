@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg49" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs id="defs53">
         <linearGradient id="linearGradient1176">
@@ -12,9 +13,7 @@
             <stop id="stop4229" stop-color="#292c2f" offset="0"/>
             <stop id="stop4231" stop-opacity="0" offset="1"/>
         </linearGradient>
-        <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#232629;
-      }</style>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style>
         <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text {
         color:#232629;
       }</style>

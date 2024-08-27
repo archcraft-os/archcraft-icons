@@ -1,9 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
-  <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#eff0f1;
-        }
-    </style>
+  <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
   <g transform="translate(1,1)">
     <g class="ColorScheme-Text" fill="currentColor">
       <path d="M3.858 3L18 8l-.333.943-14.142-5z"/>

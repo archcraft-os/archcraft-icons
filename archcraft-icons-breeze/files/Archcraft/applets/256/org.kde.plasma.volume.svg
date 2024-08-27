@@ -49,38 +49,17 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
       .ColorScheme-Background {
         color:#eff0f1;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-Accent {
         color:#3daee9;
       }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
+      .ColorScheme-Text {
+        color:#4d4d4d;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
       }
       </style>
   </defs>
@@ -125,7 +104,7 @@
      style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      rx="3"
-     class="ColorScheme-Highlight" />
+     class="ColorScheme-Accent" />
   <rect
      style="color:#4d4d4d;opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none"
      id="rect6597-4"
@@ -147,5 +126,5 @@
      style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      rx="3"
-     class="ColorScheme-Highlight" />
+     class="ColorScheme-Accent" />
 </svg>

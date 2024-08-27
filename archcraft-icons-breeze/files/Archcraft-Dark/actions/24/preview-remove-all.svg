@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
   <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#eff0f1;
-      }
-      </style>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
   </defs>
   <g transform="translate(1,1)">
     <path style="fill:currentColor;fill-opacity:1;stroke:none" d="m 6.0234375,4.9941406 0,4 -1,0 0,-2 -1,0 0,2 -1,0 0,1 16.0000005,0 0,-1 -0.02344,0 L 19,7 l -1,0 0,1.9941406 -0.976562,0 0,-4 -1,0 0,4 -1,0 0,-2 -1,0 0,2 -1,0 0,-2 -1,0 0,2 -1,0 0,-2 -1,0 0,2 -1.0000005,0 0,-2 -1,0 0,2 -1,0 0,-4 -1,0 z" class="ColorScheme-Text"/>

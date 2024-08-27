@@ -49,38 +49,17 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
       .ColorScheme-Background {
         color:#eff0f1;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-Accent {
         color:#3daee9;
       }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
+      .ColorScheme-Text {
+        color:#4d4d4d;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
       }
       </style>
   </defs>
@@ -99,7 +78,7 @@
      id="rect6956"
      style="fill:currentColor;fill-opacity:1;stroke:none" 
      d="m 24,47.000019 208,0 0,1 -208,0 z"
-     class="ColorScheme-Highlight" />
+     class="ColorScheme-Accent" />
   <path
      inkscape:connector-curvature="0"
      id="path4491"

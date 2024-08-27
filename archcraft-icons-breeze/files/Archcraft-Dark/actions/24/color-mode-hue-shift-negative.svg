@@ -31,11 +31,7 @@
       <stop offset="0.75" stop-color="#e8301e"/>
       <stop offset="1" stop-color="#e6320e"/>
     </linearGradient>
-    <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text {
-    color:#eff0f1;
-   }
-  </style>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
   </defs>
   <g transform="translate(1,1)">
     <g transform="matrix(1.093343,0,0,1.0933518,-1.0272637,-1128.5694)">

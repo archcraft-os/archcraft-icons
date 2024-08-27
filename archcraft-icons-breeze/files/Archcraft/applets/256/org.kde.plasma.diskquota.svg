@@ -54,38 +54,17 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
       .ColorScheme-Background {
         color:#eff0f1;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-Accent {
         color:#3daee9;
       }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
+      .ColorScheme-Text {
+        color:#4d4d4d;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
       }
       </style>
   </defs>
@@ -124,7 +103,7 @@
      id="rect6599"
      style="fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
-     class="ColorScheme-Highlight" />
+     class="ColorScheme-Accent" />
   <rect
      style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none"
      id="rect6597-7"
@@ -144,7 +123,7 @@
      id="rect6599-9"
      style="fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
-     class="ColorScheme-Highlight" />
+     class="ColorScheme-Accent" />
   <rect
      style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none"
      id="rect6597-7-1"
@@ -164,7 +143,7 @@
      id="rect6599-9-5"
      style="fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
-     class="ColorScheme-Highlight" />
+     class="ColorScheme-Accent" />
   <g
      id="quota"
      inkscape:label="#g2992"

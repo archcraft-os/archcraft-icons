@@ -1,12 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <style id="current-color-scheme" type="text/css">
-        .ColorScheme-Text {
-            color:#eff0f1;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }
-    </style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style>
     <path d="m3.5 2.7929688-.7070312.7070312.3535156.3535156 14.9999996 15.0000004.353516.353515.707031-.707031-.353515-.353516-15.0000004-14.9999996z" class="ColorScheme-NegativeText" fill="currentColor"/>
     <g class="ColorScheme-Text" fill="currentColor">
         <path d="m8 3c-.828427 0-1.5782005.336013-2.1210938.8789062l5.1210938 5.1210938v-3c0-1.656854-1.343146-3-3-3zm-3 4v4c0 1.656854 1.343146 3 3 3 1.0855136 0 2.02799-.581747 2.554688-1.445312zm-2 2v2c0 2.419003 1.7176959 4.43717 4 4.900391v2.099609h-2v1h6v-1h-2v-2.099609c1.221013-.24782 2.268985-.948958 2.990234-1.910157l-.710937-.710937c-.722654 1.037566-1.9190145 1.720703-3.279297 1.720703-2.209139 0-4-1.790861-4-4v-2zm9 0v1l1 1v-2z"/>

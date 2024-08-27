@@ -66,39 +66,20 @@
      id="defs4">
     <style
        id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
+       type="text/css">      .ColorScheme-Text {
         color:#232629;
       }
       .ColorScheme-Background {
         color:#eff0f1;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-Accent {
         color:#3daee9;
       }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
+      .ColorScheme-Text {
+        color:#4d4d4d;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
       }
       </style>
     <linearGradient
@@ -2092,7 +2073,7 @@
      x="103"
      y="18"
      ry="1.0077027"
-     class="ColorScheme-ViewBackground" />
+     class="ColorScheme-Background" />
   <g
      aria-label="Favourites"
      id="text7416"

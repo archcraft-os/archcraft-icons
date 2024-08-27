@@ -1,12 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <style id="current-color-scheme" type="text/css">
-        .ColorScheme-Text {
-            color:#eff0f1;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }
-    </style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style>
     <g class="ColorScheme-Text" fill="currentColor">
         <path d="m4 6.01563v3.98437l4 4h1v-2.984375z"/>
         <path d="m2 6v4h1v-4z"/>

@@ -1,12 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
-  <style type="text/css" id="current-color-scheme">
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }
-        .ColorScheme-Text {
-            color:#eff0f1;
-        }
-    </style>
+  <style type="text/css" id="current-color-scheme">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style>
   <g transform="translate(1,1)">
     <rect style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-NegativeText" height="22" rx="2" width="22"/>
     <path d="M4.414 3L3 4.414 9.586 11 3 17.586 4.414 19 11 12.414 17.586 19 19 17.586 12.414 11 19 4.414 17.586 3 11 9.586z" fill="#fff"/>

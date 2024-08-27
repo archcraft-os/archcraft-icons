@@ -50,38 +50,17 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
       .ColorScheme-Background {
         color:#eff0f1;
       }
-      .ColorScheme-Highlight {
+      .ColorScheme-Accent {
         color:#3daee9;
       }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
+      .ColorScheme-Text {
+        color:#4d4d4d;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
       }
       </style>
     <linearGradient
@@ -389,12 +368,12 @@
      id="rect7886" />
   <path
      style="fill:currentColor;fill-opacity:1;stroke:none"
-     class="ColorScheme-Highlight"
+     class="ColorScheme-Accent"
      d="m 20,138 0,-57 c 40,0 50.000006,10 85,10 20,0 20,-5 35,-5 15,0 30,-5 40,-5 10,0 40,0 56,0 l 0,57 z"
      id="path10" />
   <path
      style="fill:currentColor;fill-opacity:1;stroke:none"
-     class="ColorScheme-Highlight"
+     class="ColorScheme-Accent"
      d="m 20,226 0,-55 c 55,0 64.999997,50 79.999997,50 C 120,221 130,216 145,216 c 15,0 25,5 50,5 25,0 16,0 41,0 l 0,5 z"
      id="path12" />
   <g

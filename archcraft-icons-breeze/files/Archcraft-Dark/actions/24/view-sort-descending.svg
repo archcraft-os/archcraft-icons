@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg19" version="1.1" viewBox="0 0 24 24" width="24" height="24">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#eff0f1;}</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style>
   <g transform="translate(1,1)">
     <g id="g17" class="ColorScheme-Text" transform="matrix(3.7795305,0,0,3.7795305,-2.2965797e-6,-1100.5205)" fill="currentColor">
       <path id="path3" d="m3.96875 293.82498v1.87482l-0.6066814-0.60668-0.1870686 0.18707 0.9260416 0.92604 0.9260417-0.92604-0.1870686-0.18707-0.6066814 0.60668v-1.87482z"/>
