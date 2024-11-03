@@ -2,7 +2,7 @@
 
 pkgname=archcraft-icons-papirus
 pkgver=1.0
-pkgrel=8
+pkgrel=9
 pkgdesc="Papirus Icon theme for Archcraft"
 arch=('any')
 url="https://github.com/archcraft-os/archcraft-icons"
